@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/ALL PROGRAMMING/OOPS_USING_C-",
-      "program": "d:/ALL PROGRAMMING/OOPS_USING_C-/build/Debug/outDebug",
+      "cwd": "d:/ALL PROGRAMMING/OOPS_USING_C-/OOPS_PROGRAMS_USING_CPP",
+      "program": "d:/ALL PROGRAMMING/OOPS_USING_C-/OOPS_PROGRAMS_USING_CPP/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
